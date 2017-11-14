@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+}
+
+#site-header {
+  margin-bottom: 0.1rem;
+}
+
+#site-name {
+  color: #c5b7b7;
+}
+
+#big-image {
+  margin-bottom: 0.5em;
+}
+
+.citation {
+  color: #4e4c4c;
+  font-size: 0.7em;
+}
+
+.article-text {
+  color: grey;
+}
