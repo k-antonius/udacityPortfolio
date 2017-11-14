@@ -2,6 +2,10 @@ body {
   background-color: black;
 }
 
+h2, h3 {
+  color: #c5b7b7;
+}
+
 #site-header {
   margin-bottom: 0.1rem;
 }
